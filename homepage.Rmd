@@ -1,7 +1,6 @@
 ---
-title: "deanosaurs.homepage"
-author: "Austin Deans"
-date: "8/27/2018"
+title: " #Deanosaurs"
+date: "20 October 2019"
 output: html_document
 ---
 
